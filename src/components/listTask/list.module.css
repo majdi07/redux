@@ -1,0 +1,6 @@
+.cadre{
+    display: flex;
+   padding: 70px;
+    flex-wrap: wrap;
+ 
+}

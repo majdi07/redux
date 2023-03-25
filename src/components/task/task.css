@@ -1,0 +1,55 @@
+
+
+
+.bloc{
+    width: 220px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;;
+    height: 210px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border-radius: 8px;
+    background-color: white;
+    text-align: center;
+    transition: transform 0.25s;
+    position: relative;
+
+    
+}
+/* .bloc:hover{
+    transform: scale(1.05);
+} */
+.titre{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color:black;
+    text-transform: capitalize;
+   
+}
+i{
+    color:red;
+  position: absolute;
+  top: 150px;
+  right: 20px;
+  cursor: pointer;
+font-size: 25px;
+    
+}
+
+.btn1{
+    padding: 2px;
+    width: 60px;
+    border: none;
+    border-radius: 8px;
+    background-color: black;
+    text-align: center;
+    color:white;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    cursor: pointer;
+}
+.done{
+    text-decoration: line-through;
+}
